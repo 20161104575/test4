@@ -8,5 +8,17 @@
 
 import Foundation
 
-print("Hello, World!")
+var sum = 0
+
+var a = 10
+
+var b = 1
+
+sum = a + b
+
+print(sum)
+
+
+
+
 
